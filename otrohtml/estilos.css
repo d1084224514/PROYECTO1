@@ -1,0 +1,24 @@
+body{
+    background-image:url(./imagenes/background\ 2.jpg);
+    background: cover;
+    background-size: cover;
+}
+
+.mititulo{
+    color: rgb(189, 114, 114);
+    font-style:italic;
+    font-size: 200%;
+    text-align: center;
+    margin: 20%;
+}
+
+.mantenerlacalma{
+    
+    display: flex;
+    place-items: center;
+    margin: 2%;
+   
+}
+.contenido2{
+    margin: 20%;
+}
